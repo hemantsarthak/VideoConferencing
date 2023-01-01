@@ -642,6 +642,25 @@ navbar .logo {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+.container-room .left-cont .footer .copycode-cont .tool-button {
+  text-decoration: none;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  padding: 10px 0;
+  width: 50px;
+  text-align: center;
+  color: white;
+  background-color: #4ecca3;
+  border: none;
+  font-weight: bold;
+  outline: none;
+  border-radius: 50px;
+}
+.container-room .left-cont .footer .copycode-cont .tool-button:hover{
+  cursor: pointer;
+} 
+
 .container-room .left-cont .footer .copycode-cont .copycode-button:hover {
   cursor: pointer;
 }
